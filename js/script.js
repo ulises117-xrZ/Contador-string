@@ -26,7 +26,7 @@
 //     }
 // });
 
-//ayuda aun no se como quitar el coso
+
 
 let label = document.querySelector('.formulario');
 let input = document.querySelector('.formulario__input').value;
